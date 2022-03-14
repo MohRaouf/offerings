@@ -1,31 +1,31 @@
 {
     "new_offers": [
         {
-            "image": "https://picsum.photos/536/354",
+            "image": "https://palearningservices.se.com/assets/images/NewMost/Machines.png",
             "title": "EcoStruxure Modicon Builder",
             "description": "E-Learning",
             "url": "course_details_WBTs/cd_1140.html"
         },
         {
-            "image": "https://picsum.photos/536/354",
+            "image": "https://palearningservices.se.com/assets/images/NewMost/New21.jpg",
             "title": "Testing Safety Applications Using Triconex Safety Validator",
             "description": "E-Learning",
             "url": "course_details_WBTs/cd_1175.html"
         },
         {
-            "image": "https://picsum.photos/536/354",
+            "image": "https://palearningservices.se.com/assets/images/NewMost/New12.jpg",
             "title": "Troubleshooting Foxboro DCS Using Scripts",
             "description": "E-Learning",
             "url": "course_details_WBTs/cd_1202.html"
         },
         {
-            "image": "https://picsum.photos/536/354",
+            "image": "https://palearningservices.se.com/assets/images/NewMost/New11.jpg",
             "title": "Machine Automation Training",
             "description": "Training",
             "url": "Machines.html"
         },
         {
-            "image": "https://picsum.photos/536/354",
+            "image": "https://palearningservices.se.com/assets/images/NewMost/New13.jpg",
             "title": "Troubleshooting Triconex Safety Systems",
             "description": "E-Learning",
             "url": "course_details_WBTs/cd_1192.html"

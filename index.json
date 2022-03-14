@@ -1,0 +1,132 @@
+{
+    "new_offers": [
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "EcoStruxure Modicon Builder",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1140.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Testing Safety Applications Using Triconex Safety Validator",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1175.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Troubleshooting Foxboro DCS Using Scripts",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1202.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Machine Automation Training",
+            "description": "Training",
+            "url": "Machines.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Troubleshooting Triconex Safety Systems",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1192.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Getting Started with EcoStruxure Hybrid DCS",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1207.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Activating and Securing EcoStruxure Hybrid DCS",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1208.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Building and Deploying Systems in EcoStruxure Hybrid DCS",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1209.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "1194 EcoStruxure Maintenance Advisor for Predictive Maintenance of Assets (Virtual)",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_1194_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Troubleshooting Foxboro DCS Control Processor",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1172.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Testing Safety Functionality Using Triconex Safety Validator Tieback",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1203.html"
+        }
+    ],
+    "most_popular": [
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Configuring Better Displays Using Situational Awareness Graphics",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_1095_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Using ArchestrA Graphics to Implement High-Performance Control HMIs",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_1098_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Understanding the Basics of SCADA Systems for Process Control",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1076.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "5010 System Auditor User Training Virtual",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_5010_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Safety System Basics",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1079.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Troubleshooting Foxboro DCS Control Processor",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1172.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "2001v8 Foxboro Configuration Essentials Virtual",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_2001v8_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "Testing Safety Applications Using Triconex Safety Validator",
+            "description": "E-Learning",
+            "url": "course_details_WBTs/cd_1175.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "1120 Essential Practices for Advanced Control Network Management (Virtual)",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_1120_VILT.html"
+        },
+        {
+            "image": "https://picsum.photos/536/354",
+            "title": "8945 Triconex Safety Validator (Virtual)",
+            "description": "Virtual Classroom",
+            "url": "course_details/cd_8945_VILT.html"
+        }
+    ]
+}
